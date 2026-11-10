@@ -6,10 +6,10 @@ Campus Event Explorer is a Flutter mobile application that helps students discov
 
 ## Team and Contributions
 
-| Full Name | Student ID | Contribution |
+| Full Name | Contribution |
 |---|---|---|
-| Pelin Kaynarpınar | 40042862792 | Joint development of the event data, interface, search and category filters, favorites, participation features, testing, and documentation. |
-| Zeynep Zişan Beylen | 20203124082 | Joint development of the event data, interface, search and category filters, favorites, participation features, testing, and documentation. |
+| Pelin Kaynarpınar  | Joint development of the event data, interface, search and category filters, favorites, participation features, testing, and documentation. |
+| Zeynep Zişan Beylen   Joint development of the event data, interface, search and category filters, favorites, participation features, testing, and documentation. |
 
 The project was developed and reviewed as a team. Both members contributed collaboratively to application functionality, interface development, testing, and final documentation.
 
